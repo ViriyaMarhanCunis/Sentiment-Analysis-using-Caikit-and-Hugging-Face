@@ -11,7 +11,7 @@ Ini merupakan isi dari salah satu bentuk projek Sentiment Analysis menggunakan C
 Note : untuk bagian env saya tidak dapat mendownload semua dikarenakan library nya yang terlalu besar serta tidak bisa didownload lewat web dikarenakan sering terkena error
 
 </p>
-<div align='cemter'>
+<div align='center'>
 <img src="img/error.jpeg">
 </div>
 <div align="center">
@@ -31,9 +31,9 @@ Disini saya menggunakan Caikit dimana Caikit adalah salah satu toolkit AI yang m
 Setelah mengikuti step yang diberikan, saya menggantikan kalimati yang diisi sesuai dengan ketentuan saya dan menjalankan programnya.
 
 Hasil dari test nya adalah sebagai berikut :
-<div align='cemter'>
-<img src="img/hasill.png">
-<img src="img/hasil3.png">
+<div align='center'>
+<img src="img/hasil1.png">
+<img src="img/hasil3.jpeg">
 </div>
 Disini kita bisa melihat bahwa model ini dapat melakukan sentiment analysis dengan baik.
 <img src="img/hasil2.png">
