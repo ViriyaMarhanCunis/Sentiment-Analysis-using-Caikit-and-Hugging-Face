@@ -29,10 +29,10 @@ Disini saya menggunakan Caikit dimana Caikit adalah salah satu toolkit AI yang m
 Setelah mengikuti step yang diberikan, saya menggantikan kalimati yang diisi sesuai dengan ketentuan saya dan menjalankan programnya.
 
 Hasil dari test nya adalah sebagai berikut :
-<img src="img/hasil.jpeg">
-<img src="img/hasi3.jpeg">
+<img src="img/hasil.png">
+<img src="img/hasi3.png">
 Disini kita bisa melihat bahwa model ini dapat melakukan sentiment analysis dengan baik.
-<img src="img/hasi2.jpeg">
+<img src="img/hasi2.png">
 Disini kita bisa melihat bahwa model ini belum bisa melakukan sentiment analysis kalimat bahasa Indonesia dengan tepat
 
 Dari hasil tersebut, bisa disimpulkan bahwa sentiment analysis akan melakukan analysis perasaan kalimat sesuai dengan kepositifan atau kenegatifan kalimat tersebut.
