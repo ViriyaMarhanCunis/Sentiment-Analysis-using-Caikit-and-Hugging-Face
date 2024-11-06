@@ -31,8 +31,10 @@ Disini saya menggunakan Caikit dimana Caikit adalah salah satu toolkit AI yang m
 Setelah mengikuti step yang diberikan, saya menggantikan kalimati yang diisi sesuai dengan ketentuan saya dan menjalankan programnya.
 
 Hasil dari test nya adalah sebagai berikut :
+<div align='cemter'>
 <img src="img/hasill.png">
 <img src="img/hasil3.png">
+</div>
 Disini kita bisa melihat bahwa model ini dapat melakukan sentiment analysis dengan baik.
 <img src="img/hasil2.png">
 Disini kita bisa melihat bahwa model ini belum bisa melakukan sentiment analysis kalimat bahasa Indonesia dengan tepat
