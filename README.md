@@ -9,9 +9,11 @@ Asal Universitas    : Institut Teknologi Batam
 Ini merupakan isi dari salah satu bentuk projek Sentiment Analysis menggunakan Caikit
 
 Note : untuk bagian env saya tidak dapat mendownload semua dikarenakan library nya yang terlalu besar serta tidak bisa didownload lewat web dikarenakan sering terkena error
-<img src="img/error.jpeg">
-</p>
 
+</p>
+<div align='cemter'>
+<img src="img/error.jpeg">
+</div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -29,10 +31,10 @@ Disini saya menggunakan Caikit dimana Caikit adalah salah satu toolkit AI yang m
 Setelah mengikuti step yang diberikan, saya menggantikan kalimati yang diisi sesuai dengan ketentuan saya dan menjalankan programnya.
 
 Hasil dari test nya adalah sebagai berikut :
-<img src="img/hasil.png">
-<img src="img/hasi3.png">
+<img src="img/hasill.png">
+<img src="img/hasil3.png">
 Disini kita bisa melihat bahwa model ini dapat melakukan sentiment analysis dengan baik.
-<img src="img/hasi2.png">
+<img src="img/hasil2.png">
 Disini kita bisa melihat bahwa model ini belum bisa melakukan sentiment analysis kalimat bahasa Indonesia dengan tepat
 
 Dari hasil tersebut, bisa disimpulkan bahwa sentiment analysis akan melakukan analysis perasaan kalimat sesuai dengan kepositifan atau kenegatifan kalimat tersebut.
