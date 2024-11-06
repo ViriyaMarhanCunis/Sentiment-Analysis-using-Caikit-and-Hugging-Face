@@ -21,7 +21,7 @@ Note : untuk bagian env saya tidak dapat mendownload semua dikarenakan library n
 
 </div>
 <h2 align="center"> Analisis</h2> 
-
+<p align='center'>
 Disini saya akan memberikan hasil analisis dari projek ini.
 
 Sentiment Anaslysis merupakan salah satu bagian dari Hugging Face Model yang berguna untuk membuat AI melakukan analisis satu kalimat untuk menentukan perasaan dari kalimat tersebut.
@@ -42,3 +42,4 @@ Disini kita bisa melihat bahwa model ini dapat melakukan sentiment analysis deng
 Disini kita bisa melihat bahwa model ini belum bisa melakukan sentiment analysis kalimat bahasa Indonesia dengan tepat
 
 Dari hasil tersebut, bisa disimpulkan bahwa sentiment analysis akan melakukan analysis perasaan kalimat sesuai dengan kepositifan atau kenegatifan kalimat tersebut.
+</p>
