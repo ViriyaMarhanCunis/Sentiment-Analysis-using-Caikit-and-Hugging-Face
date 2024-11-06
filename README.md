@@ -36,7 +36,9 @@ Hasil dari test nya adalah sebagai berikut :
 <img src="img/hasil3.jpeg">
 </div>
 Disini kita bisa melihat bahwa model ini dapat melakukan sentiment analysis dengan baik.
+<div align='center'>
 <img src="img/hasil2.png">
+</div>
 Disini kita bisa melihat bahwa model ini belum bisa melakukan sentiment analysis kalimat bahasa Indonesia dengan tepat
 
 Dari hasil tersebut, bisa disimpulkan bahwa sentiment analysis akan melakukan analysis perasaan kalimat sesuai dengan kepositifan atau kenegatifan kalimat tersebut.
